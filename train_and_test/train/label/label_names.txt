@@ -1,0 +1,5 @@
+_background_
+farmland
+house
+mountain
+water
